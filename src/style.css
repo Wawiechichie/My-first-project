@@ -1,0 +1,56 @@
+ h1{
+           text-align: center;
+           color:#272044 ;
+           font-weight: 900;
+           font-size: 34px;
+           line-height: 48px;
+           margin: 0;
+           font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+        h2{
+            text-align: center;
+            color:#8064e9 ;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+            font-weight: 900;
+            font-size: 34px;
+            line-height: 48px;
+            margin: 0;
+        }
+        p{
+            text-align: center;
+            font-family: 'Source Code Pro', monospace;
+            font-size: 18px;
+            line-height: 28px;
+        }
+        button{
+            border: 1px solid#8064e9;
+            background-color: #8064e9;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 20px 20px;
+            font-size: 17px;
+            border-radius: 25px;
+            line-height: 22px;
+            padding: 16px 24px;
+            transition: all 200ms ease;
+            box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+        }
+        button:hover{
+            cursor: pointer;
+            background: #5e41a7;
+        }
+        footer{
+           text-align: center;
+           color:#272044 ;
+           font-weight: 900;
+           font-size: 14px;
+           line-height: 48px;
+           margin: 0;
+           font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+           text-decoration: none;
+        }
+        img{
+            width: 550px;
+            display: block;
+            margin: 0 auto;
+        }
